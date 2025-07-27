@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"pdf-parse": "^1.1.1",
+		"compromise": "^14.14.4",
+		"chrono-node": "^2.8.3",
+		"fuzzball": "^2.2.2"
+	}
+}
